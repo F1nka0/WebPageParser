@@ -1,0 +1,11 @@
+C:\Users\xbox0\Desktop\WebParser\WebParser\bin\Debug\netcoreapp3.0\WebParser.exe
+C:\Users\xbox0\Desktop\WebParser\WebParser\bin\Debug\netcoreapp3.0\WebParser.deps.json
+C:\Users\xbox0\Desktop\WebParser\WebParser\bin\Debug\netcoreapp3.0\WebParser.runtimeconfig.json
+C:\Users\xbox0\Desktop\WebParser\WebParser\bin\Debug\netcoreapp3.0\WebParser.runtimeconfig.dev.json
+C:\Users\xbox0\Desktop\WebParser\WebParser\bin\Debug\netcoreapp3.0\WebParser.dll
+C:\Users\xbox0\Desktop\WebParser\WebParser\bin\Debug\netcoreapp3.0\WebParser.pdb
+C:\Users\xbox0\Desktop\WebParser\WebParser\obj\Debug\netcoreapp3.0\WebParser.csprojAssemblyReference.cache
+C:\Users\xbox0\Desktop\WebParser\WebParser\obj\Debug\netcoreapp3.0\WebParser.AssemblyInfoInputs.cache
+C:\Users\xbox0\Desktop\WebParser\WebParser\obj\Debug\netcoreapp3.0\WebParser.AssemblyInfo.cs
+C:\Users\xbox0\Desktop\WebParser\WebParser\obj\Debug\netcoreapp3.0\WebParser.dll
+C:\Users\xbox0\Desktop\WebParser\WebParser\obj\Debug\netcoreapp3.0\WebParser.pdb
